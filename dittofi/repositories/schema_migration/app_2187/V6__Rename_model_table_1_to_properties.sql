@@ -1,0 +1,1 @@
+ALTER TABLE table_1 RENAME TO "properties";

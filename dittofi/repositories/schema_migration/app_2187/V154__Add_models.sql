@@ -1,0 +1,1 @@
+CREATE TABLE app_2187.table_1 (id serial,hour real,meridiem varchar, PRIMARY KEY(id)); 

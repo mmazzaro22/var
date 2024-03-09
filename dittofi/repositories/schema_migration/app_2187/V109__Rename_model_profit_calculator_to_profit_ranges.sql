@@ -1,0 +1,1 @@
+ALTER TABLE profit_calculator RENAME TO "profit_ranges";

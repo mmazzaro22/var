@@ -1,0 +1,1 @@
+ALTER TABLE listings DROP COLUMN order_type CASCADE;

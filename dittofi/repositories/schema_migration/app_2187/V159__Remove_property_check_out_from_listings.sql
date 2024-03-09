@@ -1,0 +1,1 @@
+ALTER TABLE listings DROP COLUMN check_out CASCADE;

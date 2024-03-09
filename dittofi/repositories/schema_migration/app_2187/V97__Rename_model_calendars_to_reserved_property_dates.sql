@@ -1,0 +1,1 @@
+ALTER TABLE calendars RENAME TO "reserved_property_dates";

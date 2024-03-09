@@ -1,0 +1,4 @@
+
+
+ALTER TABLE properties
+	ALTER COLUMN status DROP NOT NULL;

@@ -1,0 +1,4 @@
+
+
+ALTER TABLE properties
+	ALTER COLUMN amenity DROP NOT NULL;

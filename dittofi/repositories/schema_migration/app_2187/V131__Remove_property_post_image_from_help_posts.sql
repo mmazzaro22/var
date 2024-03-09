@@ -1,0 +1,1 @@
+ALTER TABLE help_posts DROP COLUMN post_image CASCADE;

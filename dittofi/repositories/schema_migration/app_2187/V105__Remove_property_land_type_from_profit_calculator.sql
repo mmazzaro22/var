@@ -1,0 +1,1 @@
+ALTER TABLE profit_calculator DROP COLUMN land_type CASCADE;

@@ -1,0 +1,1 @@
+CREATE TABLE app_2187.table_1 (id serial,state varchar,abbreviation varchar, PRIMARY KEY(id)); 

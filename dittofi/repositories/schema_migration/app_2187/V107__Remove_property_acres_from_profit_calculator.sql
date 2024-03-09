@@ -1,0 +1,1 @@
+ALTER TABLE profit_calculator DROP COLUMN acres CASCADE;
